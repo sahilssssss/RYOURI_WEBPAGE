@@ -1,4 +1,4 @@
-# Restaurant Website with Modern UI/UX - [LIVE_LINK](https://ryourirestaurantwebxui.netlify.app/)
+# Restaurant Website with Modern UI/UX - [Live Link](https://ryourirestaurantwebxui.netlify.app/)
 
 
 
