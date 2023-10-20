@@ -26,5 +26,4 @@ Implemented performance enhancements to ensure quick loading times and smooth in
 ### HTML/CSS
 ### JavaScript
 ### React Router for navigation
-### Animate.css for animations
 ### Other modern web technologies
